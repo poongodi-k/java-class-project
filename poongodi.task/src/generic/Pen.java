@@ -13,7 +13,7 @@ public class Pen <E> extends Necessaries implements StationaryItems{
 	}
 
 	public void printDetail() {
-		System.out.println("This is a Pen");
+		System.out.println("This is a Pen")
 	}
 	
 }
